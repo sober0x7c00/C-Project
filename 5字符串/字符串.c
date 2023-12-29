@@ -1,12 +1,11 @@
-#include <stdio.h>
 #include <string.h>
-//调试窗口监视字符串长度ctrl+f5,f10
+//璋冭瘯绐楀彛鐩戣瀛楃涓查暱搴trl+f5,f10
 //int main()
 //{
 //	char arr[] = "hello";
 //	return 0;
 //}
-//二，锟斤拷烫烫烫
+//浜岋紝閿熸枻鎷风儷鐑儷
 int main()
 {
 	char arr1[] = "abc";
@@ -15,12 +14,12 @@ int main()
 	printf("%s\n", arr2);
 	return 0;
 }
-//三，计算没有结束符的长度
+//涓夛紝璁＄畻娌℃湁缁撴潫绗︾殑闀垮害
 //int main()
 //{
 //	char arr1[] = "abc";
 //	char arr2[] = { 'a','b','c'};
-//	printf("%d\n", strlen(arr1));//sterlen求字符串长度
+//	printf("%d\n", strlen(arr1));//sterlen姹傚瓧绗︿覆闀垮害
 //	printf("%d\n", strlen(arr2));
 //	return 0;
 //}
